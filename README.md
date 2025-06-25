@@ -2,6 +2,7 @@
 
 **Way2Bhurrr** is a comprehensive travel booking app designed to simplify and manage all types of travel needs — all in one place. Whether you're planning a vacation, commuting daily, or booking last-minute activities, Way2Bhurrr makes it seamless.
 
+Author : Rahul Adsure
 ---
 
 ## ✨ Features
